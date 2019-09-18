@@ -1,0 +1,5 @@
+image: gke-node-drainer
+tag: latest
+imagePullPolicy: Never
+replicas: 1
+environment: []
